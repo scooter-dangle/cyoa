@@ -342,7 +342,6 @@ Go to Location !!! (party time)
 
 --- Page 71
 
-
 --- Page 72
 
 --- Page 73
@@ -537,6 +536,24 @@ You've reached into the future with your time travel device. You now know the an
 
 --- Page 145
 
+Appendix A: Locations
+
+\begin{center}
+{\renewcommand{\arraystretch}{2}
+\begin{tabular}{ p{1cm} | p{11cm} }
+A & \\\hline
+B & \\\hline
+C & \\\hline
+D & \\\hline
+E & \\\hline
+F & \\\hline
+G & \\\hline
+H & \\\hline
+I & \\\hline
+J & \\\hline
+K & \\
+\end{tabular}}
+\end{center}
 
 --- Page 146
 \includepdf[pages=1]{map.pdf}
@@ -546,7 +563,3 @@ You've reached into the future with your time travel device. You now know the an
 
 
 --- Page 148
-
-
-
-
