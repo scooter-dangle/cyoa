@@ -31,7 +31,7 @@ To go left, turn to page 6.
 
 (REPLACED after PUZZLE 2)
 
-Frankly, I'm not expecting any of you to actually be able to operate me with any sort of skill, but I supopse I can at least let you decide what direction to travel in.
+Frankly, I'm not expecting any of you to actually be able to operate me with any sort of skill, but I suppose I can at least let you decide what direction to travel in.
 
 To go back in time, turn to page 16.
 To go forward in time, turn to page 17.
@@ -42,7 +42,7 @@ If you're bored of time traveling, turn to page 34.
 
 --- Page 4
 
-Your petty attempts at trickery won't work on me. Begone, cheater! Our partnership is over, That goes for all of you! Don't just try to hand me off to one of your meddling friends.
+Your petty attempts at trickery won't work on me. Begone, cheater! Our partnership is over. That goes for all of you! Don't just try to hand me off to one of your meddling friends.
 
 Farewell, team, and may you be cursed with a thousand overdue fines!
 
@@ -146,90 +146,40 @@ EVERYBODY DUCK! Okay, okay, stay calm! Turn to page 18, now!
 
 --- Page 15
 
-Well, I guess the vampires weren’t too happy with that last decision of yours. Yikes, those bites look painful. Sorry, this isn’t really something I can fix.
-
-As your consciousness fades and your soul descends into the ether, abandoning your body to its demon host, would you mind terribly putting me down somewhere rainproof? Thanks.
-
-\begin{center}
-  THE END.
-\end{center}
-
+BEGIN DOCUMENTARY
 --- Page 16
 
-Hmm, budding historians, are we? Alright, back it is. One second…
-
-…
-
-…
-
-There! Here we are. What, didn’t you feel it? Well, in any case, we’re in the past now.
-
-To stand very still and wait for something to happen, turn to page 19.
-
-To look around the area, turn to page 20.
+DOCUMENTARY
 
 --- Page 17
 
-To the future it is! Everyone hold on tight.
-
-And… voila! Don’t you feel different?
-
-If you feel different, turn to page 23.
-
-If you feel the same, turn to page 24.
+DOCUMENTARY
 
 --- Page 18
 
-And off we go! You may feel a slight tugging sensation in the area of your left ear, but I assure you that is perfectly normal.
+DOCUMENTARY
 
-At this point you may be thinking, “Hang on, a moment ago we were facing certain death but now we’re apparently not dead and the source of our impending doom has seemingly vanished.”
-
-First of all, you’re welcome. Second of all, I promise it will all make sense eventually.
-
-Turn to page 1.
 
 --- Page 19
 
-Okay then.We’ll just stand here. You might want to pry your eyes open at some point and process the fact that you’re on a boat, being fired on by enemy ships. Yeah. That rocking sensation in your stomach wasn’t just some weird time travel aftereffect.
+DOCUMENTARY
 
-But since you insist on not moving out of the way of the cannonfire like any logical being -- WATCH OUT! -- I suppose I’m going to have to -- DUCK! -- ugh. Intervene.
-
-Turn to page 28 before someone has to scrape you off the deck.
-
-(once solved, replaced with the same thing)
 
 --- Page 20
 
-Don’t look so surprised! What did you expect, everything would be black-and-white like an old movie? By the way, you should probably duck.
+DOCUMENTARY
 
-Okay. Whew! Close call. I highly suggest you crouch down and make your way to Location ??? before we all become cannon fodder.
-
-(once solved, replaced:)
-
-PUZZLE THREE A
-MAGNETIC SUB
-
-Well… that was interesting. And terrifying. Ready to go back?
-
-Turn to page 3.
 
 --- Page 21
-
-The dragon lunges towards you. Time to think fast! How will you distract the dragon so you can steal its treasure?
-
-To sing to the dragon, turn to page 13.
-
-To clap your hands loudly in the dragon’s face, turn to page 14.
+DOCUMENTARY
 
 --- Page 22
 
+DOCUMENTARY
+
 --- Page 23
 
-That’s probably just the subconscious realization that everything you ever knew or loved has been gone for years… and there goes the conscious realization. Don’t worry, it will pass!
-
-Just like everything else.
-
-Turn to page 25.
+END DOCUMENTARY
 
 --- Page 24
 
@@ -260,130 +210,81 @@ Quick! Go to Location \&\&, before they notice that you’re onto them!
 
 --- Page 27
 
+
 --- Page 28
 
-Well, that didn’t take long. Not that it matters! Ready to try again?
 
-Hold onto your clipboards, kids!
-
-Turn to page 3.
 
 --- Page 29
 
-Really? Ouch. To be honest I wasn’t expecting you to choose that. I guess I overestimated you. As it turns out, you’re stuck with me now (and likewise), so I guess we’ll just have to work past this sudden betrayal and try to learn to trust each other once more.
-
-Because it’s far too late to walk away from this.
-
-With that said, turn to page 1.
 
 --- Page 30
 
-Listen carefully. Everything I’ve told you so far is a lie. You need to dispose of me in the nearest recycling bin and go home. Don’t look back. Tell no one what you have seen here today.
-
-\begin{center}
-  THE END.
-\end{center}
+START FIDGET SPINNER
 
 --- Page 31
+FIDGET SPINNER
 
 --- Page 32
+FIDGET SPINNER
 
 --- Page 33
+FIDGET SPINNER
 
 --- Page 34
-
-Okay, let’s just take a minute to regroup and decide what to do next.
-
-To stay in the present and figure things out here, go to the next page.
-To take your chances on another trip, go to the page after that.
-
-34 1/3 Go to page 35.
-
-34 2/3 Go to page 41.
+FIDGET SPINNER
 
 --- Page 35
-
-I think it’s time we checked in with my author, don’t you agree? If you know Veronica’s year of birth, then you can go ahead to the page corresponding to the last two digits of that year. If not, go back to page 34.
-
-And before you say that I should remember when my own creator was born, I’ll have you know that she’s very secretive about that sort of thing!
+FIDGET SPINNER
 
 --- Page 36
+FIDGET SPINNER
 
-Off we -- whoa! What was -- are you doing that? Oh dear -- everybody hold on!
-
-Okay... Okay, I think it’s over?
-
-Whew! No idea what that was about. It seems we’ve traveled without me doing anything? And as a result, I have no idea where -- or when -- we are. I suppose we have no choice but to check it out.
-
-Turn to page 37.
 
 --- Page 37
-
-Go to Location @@@
-
-(replaced with:)
-PUZZLE FIVE
-DOCUMENTARY
-
-Been here, done that. Go back to page 33.
+FIDGET SPINNER
 
 --- Page 38
 
-We’ve reached a fork in the proverbial road. Time to make a decision -- think carefully about this one.
-
-To go left, turn to page 39.
-To go right, turn to page 40.
-
-(replaced with the same)
 
 --- Page 39
 
-Another important choice awaits us at this metaphorical crossroads. Follow your instincts and we may yet survive.
-
-To go left, turn to page 38.
-To go right, turn to page 40.
 
 --- Page 40
 
-This is it. The critical moment. Don’t screw up. Here we go:
-
-To go left, turn to page 38.
-To go right, turn to page 39.
 
 --- Page 41
 
-Okay, let me just -- hang on -- oh jeez, not again. Here we go -- brace yourselves!
-
-Yikes! Sorry about the rough ride. I keep getting pulled off course for some reason. Hopefully whoever’s sabotaging my navigation thought to bring us somewhere useful.
-
-You’d better figure something out. I don’t think my circuits can handle another trip like that. Go to Location \\\\\\ .
-
-(once solved, replace with:)
-
-PUZZLE SIX
-DESCENDANTS
 
 --- Page 42
 
-(once solved, replaced with same.)
 
 --- Page 43
 
 --- Page 44
 
+BEGIN BLUEPRINT
+
 --- Page 45
+BLUEPRINT
 
 --- Page 46
+BLUEPRINT
 
 --- Page 47
+BLUEPRINT
 
 --- Page 48
+BLUEPRINT
 
 --- Page 49
+BLUEPRINT
 
 --- Page 50
+BLUEPRINT
 
 --- Page 51
+END BLUEPRINT
 
 --- Page 52
 
@@ -399,48 +300,50 @@ DESCENDANTS
 
 --- Page 58
 
+RESERVED: VERONICA'S YEAR OF BIRTH
+
 --- Page 59
 
 --- Page 60
 
 --- Page 61
+BEGIN READING RAINBOW
 
 --- Page 62
-
+READING RAINBOW
 --- Page 63
+READING RAINBOW
 
 --- Page 64
 
-Greetings! If you’ve found your way to this page, you must be undergoing technical difficulties with this device. Please go to Location \#\# for recalibration.
-
-(replaced after solve)
-PUZZLE SEVEN
-DEACTIVATES
-
-Umm… hello? Anyone there? That was weird. I think I’ve just been… upgraded somehow? Well, hopefully that will fix the little issue we’ve been dealing with. And now we have some idea of who created me, and possibly even why.
-
-Go to page 51.
+READING RAINBOW
 
 --- Page 65
+READING RAINBOW
 
 --- Page 66
+END READING RAINBOW
 
 --- Page 67
 
+RESERVED
+
 --- Page 68
+RESERVED
 
 --- Page 69
+RESERVED
 
 --- Page 70
+
+FINAL ANSWER PAGE RESERVED
 
 Go to Location !!! (party time)
 
 --- Page 71
 
-Appendix A: Locations
 
 --- Page 72
-\includepdf[pages=1]{map.pdf}
 
 --- Page 73
 
@@ -448,6 +351,145 @@ Appendix Q, section X:
 corkscrewed
 
 --- Page 74
+
+
+
+--- Page 75
+
+--- Page 76
+\includepdf[pages=1-22]{anothertime.pdf}
+
+--- Page 98
+
+
+--- Page 98
+
+
+--- Page 99
+
+
+--- Page 100
+
+START CARDBOARD BOX
+
+--- Page 101
+CARDBOARD BOX
+
+
+--- Page 102
+CARDBOARD BOX
+
+--- Page 103
+
+CARDBOARD BOX
+--- Page 104
+CARDBOARD BOX
+
+--- Page 105
+END CARDBOARD BOX
+
+--- Page 106
+
+--- Page 107
+
+--- Page 108
+
+
+--- Page 109
+
+
+--- Page 110
+
+
+--- Page 111
+
+
+--- Page 112
+BEGIN BOOK BURNING
+
+--- Page 113
+
+BOOK BURNING
+--- Page 114
+BOOK BURNING
+
+--- Page 115
+BOOK BURNING
+
+--- Page 116
+BOOK BURNING
+
+--- Page 117
+END BOOK BURNING
+
+--- Page 118
+
+--- Page 119
+
+
+--- Page 120
+START DESCENDANTS
+
+--- Page 121
+DESCENDANTS
+
+--- Page 122
+DESCENDANTS
+
+--- Page 123
+
+END DESCENDANTS
+
+--- Page 124
+
+
+--- Page 125
+
+
+--- Page 126
+START BINGBONG
+
+--- Page 127
+BINGBONG
+
+
+--- Page 128
+BINGBONG
+
+
+--- Page 129
+BINGBONG
+
+
+--- Page 130
+BINGBONG
+
+--- Page 131
+BINGBONG
+
+--- Page 132
+
+BINGBONG
+
+--- Page 133
+
+BINGBONG
+
+--- Page 134
+
+BINGBONG
+
+--- Page 135
+BINGBONG
+
+--- Page 136
+BINGBONG
+
+--- Page 137
+
+END BINGBONG
+
+--- Page 138
 
 You've reached into the future with your time travel device. You now know the answer is yes or no! Go back, switch this puzzle and try to solve it. For you'll need to take these back with you so people will see how right you are.
 
@@ -474,136 +516,6 @@ You've reached into the future with your time travel device. You now know the an
 \end{tabular}
 \end{center}
 
---- Page 75
-
---- Page 76
-\includepdf[pages=1-22]{anothertime.pdf}
-
---- Page 98
-
-
---- Page 98
-
-
---- Page 99
-
-
---- Page 100
-
-
---- Page 101
-
-
---- Page 102
-
-
---- Page 103
-
-
---- Page 104
-
-
---- Page 105
-
-
---- Page 106
-
-
---- Page 107
-
-
---- Page 108
-
-
---- Page 109
-
-
---- Page 110
-
-
---- Page 111
-
-
---- Page 112
-
-
---- Page 113
-
-
---- Page 114
-
-
---- Page 115
-
-
---- Page 116
-
-
---- Page 117
-
-
---- Page 118
-
-
---- Page 119
-
-
---- Page 120
-
-
---- Page 121
-
-
---- Page 122
-
-
---- Page 123
-
-
---- Page 124
-
-
---- Page 125
-
-
---- Page 126
-
-
---- Page 127
-
-
---- Page 128
-
-
---- Page 129
-
-
---- Page 130
-
-
---- Page 131
-
-
---- Page 132
-
-
---- Page 133
-
-
---- Page 134
-
-
---- Page 135
-
-
---- Page 136
-
-
---- Page 137
-
-
---- Page 138
-
 
 --- Page 139
 
@@ -627,6 +539,7 @@ You've reached into the future with your time travel device. You now know the an
 
 
 --- Page 146
+\includepdf[pages=1]{map.pdf}
 
 
 --- Page 147
@@ -635,9 +548,5 @@ You've reached into the future with your time travel device. You now know the an
 --- Page 148
 
 
---- Page 149
-
-
---- Page 150
 
 
