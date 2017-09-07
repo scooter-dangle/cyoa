@@ -310,9 +310,7 @@ RESERVED: VERONICA'S YEAR OF BIRTH
 BEGIN READING RAINBOW
 
 --- Page 62
-READING RAINBOW
---- Page 63
-READING RAINBOW
+\includepdf[pages=1-2]{reading_rainbow.pdf}
 
 --- Page 64
 
