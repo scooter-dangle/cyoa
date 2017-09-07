@@ -361,9 +361,6 @@ corkscrewed
 --- Page 98
 
 
---- Page 98
-
-
 --- Page 99
 
 
@@ -453,33 +450,46 @@ BINGBONG
 
 
 --- Page 128
-BINGBONG
+\begin{center}
+\begin{tabular}{c}
+MERCUTIO \\
+KATHERINA\\
+HORATIO\\
+BRUTUS\\
+GONERIL\\
+IAGO\\
+PUCK\\
+MACDUFF\\
+DOGBERRY\\
+ROSENCRANTZ\\
+OBERON\\
+BANQUO\\
+TYBALT\\
+CASSIUS\\
+DESDEMONA\\
+VIOL\\
+BENVOLIO\\
+SHYLOCK\\
+OPHELIA\\
+LYSANDER\\
+\end{tabular}
+\end{center}
 
 
 --- Page 129
-BINGBONG
+\begin{center}
+shun a formulated monster
+\end{center}
 
 
 --- Page 130
-BINGBONG
-
---- Page 131
-BINGBONG
+\includepdf[pages=1-2]{bingbong/redgreen.pdf}
 
 --- Page 132
-
-BINGBONG
-
---- Page 133
-
-BINGBONG
+\includepdf[pages=1-2]{bingbong/rhyme.pdf}
 
 --- Page 134
-
-BINGBONG
-
---- Page 135
-BINGBONG
+\includepdf[pages=1-2]{bingbong/countries.pdf}
 
 --- Page 136
 BINGBONG
@@ -536,6 +546,12 @@ You've reached into the future with your time travel device. You now know the an
 
 --- Page 145
 
+
+--- Page 146
+
+
+--- Page 147
+
 Appendix A: Locations
 
 \begin{center}
@@ -555,11 +571,5 @@ K & \\
 \end{tabular}}
 \end{center}
 
---- Page 146
-\includepdf[pages=1]{map.pdf}
-
-
---- Page 147
-
-
 --- Page 148
+\includepdf[pages=1]{map.pdf}
