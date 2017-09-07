@@ -475,8 +475,11 @@ You've reached into the future with your time travel device. You now know the an
 \end{center}
 
 --- Page 75
+
+--- Page 76
 \includepdf[pages=1-22]{anothertime.pdf}
---- Page 97
+
+--- Page 98
 
 
 --- Page 98
