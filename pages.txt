@@ -33,11 +33,11 @@ To go left, turn to page 6.
 
 (ADDED after Puzzle 2, using a stamp/sticker)
 
-To go forward, turn to page 75.
+To go forward, turn to page 74.
 
 --- Page 4
 
-Your petty attempts at trickery won't work on me. Begone, cheater! Our partnership is over. That goes for all of you! Don't just try to hand me off to one of your meddling friends.
+Your feeble attempts at trickery won't work on me. Begone, cheater! Our partnership is over. That goes for all of you! Don't just try to hand me off to one of your meddling friends.
 
 Farewell, team, and may you be cursed with a thousand overdue fines!
 
@@ -83,7 +83,7 @@ To resign yourself to your fate, turn to page 10.
 
 --- Page 9
 
-You all fall off a cliff and perish instantly. Sorry! I really tried to prevent it, but I am just a book! Nothing could be done. I’ll do my best to ensure that the proper authorities are notified.
+You all fall off a cliff and perish instantly. Sorry! I really tried to prevent it, but I \textit{am} just a book! Nothing could be done. I'll do my best to ensure that the proper authorities are notified.
 
 \begin{center}
   THE END
@@ -113,7 +113,7 @@ I suppose it's time to explain everything. Go to Location X. I'll show you what 
 PUZZLE TWO: REVISED EDITIONS
 [answer]
 
-So? Now do you understand it? The librarians have been altering history! Changing---or should I say demolishing---classic books to better attract the youths of today! This madness must be stopped.
+So? Now do you understand it? The librarians have been altering history! Changing---or should I say \textit{demolishing}---classic books to better attract the youths of today! This madness must be stopped.
 
 \begin{center}
 If you're with me, return to page 1.
@@ -144,68 +144,65 @@ EVERYBODY DUCK! Okay, okay, stay calm! Turn to page 27, now!
 
 --- Page 15
 
-BEGIN DOCUMENTARY
+BEGIN BLUEPRINTS
+
 --- Page 16
 
-DOCUMENTARY
+BLUEPRINTS
 
 --- Page 17
 
-DOCUMENTARY
+BLUEPRINTS
 
 --- Page 18
 
-DOCUMENTARY
+BLUEPRINTS
 
 --- Page 19
 
-DOCUMENTARY
+BLUEPRINTS
 
 
 --- Page 20
-
-DOCUMENTARY
+BLUEPRINTS
 
 --- Page 21
-DOCUMENTARY
+BLUEPRINTS
 
 --- Page 22
 
-DOCUMENTARY
+END BLUEPRINTS
 
 --- Page 23
 
-END DOCUMENTARY
 
 --- Page 24
 
-Okay, let’s just take a minute to regroup and decide what to do next.
+Okay, let's just take a minute to regroup and decide what to do next.
 
-To stay in the present and figure things out here, go to the next page.
+To stay here and figure things out, go to the next page.
+
 To take your chances on another trip, go to the page after that.
-
-
 
 --- Page 25
 
-I think it's time we checked in with my author, don’t you agree? If you know Veronica's year of birth, then you can go ahead to the page corresponding to the last two digits of that year. If not, go back to page 34. 
+I think it's time we checked in with my author, don't you agree? If you know Veronica's year of birth, then you can go ahead to the page corresponding to the last two digits of that year. If not, go back to page 24. 
 
-
-And before you say that I should remember when my own creator was born, I'll have you know that she's very secretive about that sort of thing!
+\textit{And before you say that I should remember when my own creator was born, I'll have you know that she's very secretive about that sort of thing!}
 
 
 --- Page 26
 
 Off we---whoa! What was---are you doing that? Oh dear---everybody hold on!
 
-Okay... Okay, I think it’s over?
+Okay... Okay, I think it's over?
 
 Whew! No idea what that was about. It seems we've traveled without me doing anything? And as a result, I have no idea where---or when---we are. I suppose we have no choice but to check it out.
 
 Go to Location Q.
 
-(at location, directed to page 42. After solving, replaced with:)
-PUZZLE FIVE: BLUEPRINTS
+(at location, directed to page 15. After solving, pages 24 1/3 and 24 2/3 are inserted, and this page is replaced with:)
+PUZZLE FOUR: BLUEPRINTS
 [answer]
 
 Been here, done that. Go back to page 24.
@@ -228,14 +225,12 @@ Well, that didn't take long. Not that it matters, of course! Ready to try again?
 
 Hold onto your clipboards, kids!
 
-Turn to page 75.
-
-
+Turn to page 74.
 
 
 --- Page 29
 
-Really? Ouch. To be honest I wasn't expecting you to choose that. I guess I overestimated you lot. As it turns out, you're stuck with me now (and likewise), so I guess we'll just have to work past this sudden betrayal and try to learn to trust each other once more. 
+Really? Ouch. To be honest, I wasn't expecting you to choose that. I guess I overestimated you lot. As it turns out, you're stuck with me now (and likewise), so I guess we'll just have to work past this sudden betrayal and try to learn to trust each other once more. 
 
 Because it's far too late to walk away from this.
 
@@ -303,38 +298,71 @@ PUZZLE 3A: JUKEBOX BATTLESHIPS
 
 Well... that was certainly interesting. And slightly terrifying. Ready to go back? 
 
-Turn to page 75.
+Turn to page 74.
 
 --- Page 41
 
-Quick! Go to Location \&\&, before they notice that you’re onto them!
+Quick! Go to Location ???, before they notice that you’re onto them!
 
 
 --- Page 42
-BEGIN BLUEPRINT
 
+We've arrived at the home of Benjamin Quilliver, renowned author of \textit{An Unexpected Telegram}, just hours before he is to be hypnotized by the librarians into renaming his masterpiece \textit{An Unexpected Snapchat}.
+
+We must do all that we can to prevent this unspeakable tragedy.
+
+To wait outside the door and ambush the librarians, turn to page 43.
+
+To warn Mr. Quilliver of his fate, turn to page 44.
+
+To pre-emptively hypnotize Mr. Quilliver yourselves, turn to page 45.
 
 --- Page 43
-BLUEPRINT
+
+Let's wait behind these bushes. We'll be able to see them coming and make our move.
+
+Hey, why is the door opening? Is that---? Oh no. Why is she---is that a fireplace poker?
+
+Everybody RUN!
+
+Turn to page 139.
 
 --- Page 44
-BLUEPRINT
+
+As long as we can warn him, we may be able to prevent this, right? Let's go!
+
+...
+
+Oh no. It's... we're too late. The damage has already been done. His old manuscripts, tossed into the flames. His desk, strewn with pages upon pages of drivel. I---I can't look. 
+
+We've got to get to Location G as soon as possible. We may still be able to fix this.
+
+(upon arrival, directed to page 109. upon completion, replaced:)
+
+PUZZLE SEVEN: BOOK BURNING
+[answer]
+
+We couldn't 
 
 
 --- Page 45
-BLUEPRINT
+
+Really? Okay then, go ahead, do your thing. 
+
+You do know how to hypnotize someone, right?
+
+...I take it from your silence that the answer is no. 
+
+Go back to page 42.
 
 --- Page 46
-BLUEPRINT
 
 --- Page 47
-BLUEPRINT
 
 --- Page 48
-BLUEPRINT
 
 --- Page 49
-END BLUEPRINT
+
 
 --- Page 50
 BEGIN JUKEBOX BATTLESHIPS
@@ -359,9 +387,17 @@ END JUKEBOX BATTLESHIPS
 
 --- Page 58
 
-RESERVED: VERONICA'S YEAR OF BIRTH
+\texttt{Greetings! If you have found your way to this page, you must be undergoing technical difficulties with this device. Please go to Location ## for recalibration.}
 
-She was a bit of a bluestocking, my creator. Always cared more about her books than anything else. 
+(replaced after solve)
+PUZZLE SIX: GATES OF TIME
+[answer]
+
+Umm... hello? Anyone there? That was weird. I think I've just been... upgraded somehow? Hopefully that will fix the little issue we've been dealing with. 
+
+And now maybe you can understand a bit better who exactly you're dealing with. She was a bit of a bluestocking, my author... always cared more about her books and her theoretical physics than anything else. I think she would have liked you, though. 
+
+Go to page 69.
 
 --- Page 59
 
@@ -391,7 +427,14 @@ RESERVED
 RESERVED
 
 --- Page 69
-RESERVED
+
+Finally we can make some progress. My spine is tingling!
+
+To track down the meddling librarians, go ahead four pages.
+
+To go back and fix their damage, go to page 42.
+
+[after Puzzle 7 is solved, the second option is cut away to reveal page 71's option: turn to page 107.]
 
 --- Page 70
 
@@ -401,10 +444,17 @@ Go to Location !!! (party time)
 
 --- Page 71
 
+You've been attacked by scuba-diving vampires!
+
+To swim away, turn to page 28.
+
+To stay and assess the damage, turn to page 107.
+
+
 --- Page 72
 
 --- Page 73
-
+\texttt{This is not the page you're looking for.}
 
 --- Page 74
 Frankly, I'm not expecting any of you to actually be able to operate me with any sort of skill, but I suppose I can at least let you decide what direction to travel in.
@@ -415,10 +465,11 @@ To go forward in time, turn to page 106.
 
 (ADDED after Puzzle 3A and Puzzle 3B, using a stamp/sticker)
 
-If you're bored of time traveling, turn to page TODO.
-
+If you'd rather not go through all of that again, turn to page 24.
 
 --- Page 75
+
+
 
 
 --- Page 76
@@ -426,6 +477,16 @@ If you're bored of time traveling, turn to page TODO.
 
 --- Page 98
 
+There's a package waiting for you, if you choose to accept it. Go to Location Y.
+
+(upon arrival, given shoebox and directed to page 120. After solving, replaced with:)
+
+PUZZLE FIVE: FAMILY TREE
+[answer]
+
+So you see, this goes back for generations. Only recently did my Veronica finally do what her cousins could not---harness the time-traveling power of her great-grandparents. 
+
+Go back to page 24.
 
 --- Page 99
 
@@ -454,7 +515,11 @@ END CARDBOARD BOX
 
 To the future it is! Everyone hold on tight.
 
-And… voila! Don't you feel different?
+...
+
+...
+
+\textit{Voil\`a!} Don't you feel different?
 
 If you feel different, turn to page 114.
 
@@ -463,7 +528,6 @@ If you feel the same, turn to page 115.
 --- Page 107
 
 --- Page 108
-
 
 
 --- Page 109
@@ -512,25 +576,24 @@ Try Location \%\%?
 PUZZLE 3B: YES OR NO
 [answer]
 
-Well, that's all well and good, but we still haven't managed to learn anything useful. Let's go back to the present for now. Turn to page 75.
+Well, that's all well and good, but we still haven't managed to learn anything useful. Let's go back to the present for now. Turn to page 74.
 
 --- Page 118
 
 --- Page 119
 
-
 --- Page 120
-START DESCENDANTS
+START FAMILY TREE
 
 --- Page 121
-DESCENDANTS
+FAMILY TREE
 
 --- Page 122
-DESCENDANTS
+FAMILY TREE
 
 --- Page 123
 
-END DESCENDANTS
+END FAMILY TREE
 
 --- Page 124
 
@@ -603,8 +666,8 @@ You've reached into the future with your time travel device. You now know the an
 \textbf{T}ell a joke & Act of selling again \\
 \textbf{H}armful deeds & Calypso's father \\
 \textbf{E}xasperating insects & Dish lister \\
-\textbf{A}lpaca-like mammal & Extened clan \\
-\textbf{N}ap or mediate & Gallbladder's neighbor \\
+\textbf{A}lpaca-like mammal & Extended clan \\
+\textbf{N}ap or meditate & Gallbladder's neighbor \\
 \textbf{S}tory lesson & Having a sharp flavor \\
 \textbf{W}ithout exception & It'll give a chip zip \\
 \textbf{E}nhance a milkshake & Knot on a tree trunk \\
@@ -615,7 +678,7 @@ You've reached into the future with your time travel device. You now know the an
 \textbf{E}xploring fish gets captured and put in dentist clinic & Romantic partners \\
 \textbf{S}pecial delivery & Something to waft over me \\
 \textbf{O}rganized opposition to authority & Take much pleasure \\
-\textbf{R}ough roadn & Vehicles in grocery stores \\
+\textbf{R}ough road & Vehicles in grocery stores \\
 \textbf{N}eeds for some games of tag & With ears pricked up \\
 \textbf{O}ffering setting & Yma of Peru \\
 \end{tabular}
@@ -623,6 +686,14 @@ You've reached into the future with your time travel device. You now know the an
 
 
 --- Page 139
+
+Good grief, were you trying to get yourselves killed? I just barely got us out in time! 
+
+...
+
+Not that I was worried about you or anything.
+
+Alright, break time's over, go back to page 69.
 
 
 --- Page 140
