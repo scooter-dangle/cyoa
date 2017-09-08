@@ -715,7 +715,26 @@ Alright, break time's over, go back to page 69.
 
 
 --- Page 146
+\begin{center}
+(Gates of Time: Word Ladder Edition)
 
+{\renewcommand{\arraystretch}{2}
+\begin{tabular}{ P{6cm} P{6cm} }
+PAGE &                    \\
+     &                    \\ \hhline{|-| |}
+     &                    \\ \hhline{|-| |}
+     &                    \\ \hhline{|-| |}
+     & Seize suddenly     \\ \hhline{|-| |}
+     &                    \\ \hhline{|-| |}
+     &                    \\ \hhline{|-| |}
+     &                    \\ \hhline{|-| |}
+     & Christmas greeting \\ \hhline{|-| |}
+     &                    \\ \hhline{|-| |}
+     &                    \\ \hhline{|-| |}
+     &                    \\
+FACT &                    \\
+\end{tabular}}
+\end{center}
 
 --- Page 147
 
