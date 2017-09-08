@@ -5,7 +5,7 @@ pages.tex: pages.txt buildpages.awk
 	awk -f buildpages.awk $< | tail -n+5 > $@
 
 book.pdf: book.tex pages.tex intro.tex
-	pdflatex -jobname=book $^
+	xelatex -jobname=book $^
 
 clean:
 	@rm -f *.log *.aux book.pdf pages.tex

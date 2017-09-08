@@ -47,9 +47,9 @@ Farewell, team, and may you be cursed with a thousand overdue fines!
 
 --- Page 5
 
-Aha! Good. Now that you've proven yourself worthy, proceed to Location ⬟ and await further instructions.
+Aha! Good. Now that you've proven yourself worthy, proceed to Location \locationA and await further instructions.
 
-(at Location ⬟, they are checked in and directed to Page 30).
+(at Location \locationA, they are checked in and directed to Page 30).
 
 (once puzzle is solved, the page is replaced with:)
 
@@ -104,9 +104,9 @@ To go backwards, turn to page 10.
 
 Apparently I can trust you after all! Excellent. You know, I had a good feeling about this team.
 
-I suppose it's time to explain everything. Go to Location X. I'll show you what this is all about.
+I suppose it's time to explain everything. Go to Location \locationB. I'll show you what this is all about.
 
-(at Location X, teams are checked in and directed to page 76)
+(at Location \locationB, teams are checked in and directed to page 76)
 
 (once solved, replaced with:)
 
@@ -199,9 +199,9 @@ Okay... Okay, I think it's over?
 
 Whew! No idea what that was about. It seems we've traveled without me doing anything? And as a result, I have no idea where---or when---we are. I suppose we have no choice but to check it out.
 
-Go to Location Q.
+Go to Location \locationC.
 
-(at location, directed to page 15. After solving, pages 24 1/3 and 24 2/3 are inserted, and this page is replaced with:)
+(at location \locationC, directed to page 15. After solving, pages 24 1/3 and 24 2/3 are inserted, and this page is replaced with:)
 PUZZLE FOUR: BLUEPRINTS
 [answer]
 
@@ -289,7 +289,7 @@ Turn to page 28 before someone has to scrape you off the deck.
 
 Don't look so surprised! What did you expect, everything would be black-and-white like an old movie? Oh, by the way, you should probably duck.
 
-Okay. Whew! Close call. I highly suggest you crouch down and make your way to Location ??? before we all become cannon fodder. 
+Okay. Whew! Close call. I highly suggest you crouch down and make your way to Location \locationD before we all become cannon fodder.
 
 (upon arrival teams are checked in and directed to page 51. Upon solving, replaced with:)
 
@@ -302,7 +302,7 @@ Turn to page 74.
 
 --- Page 41
 
-Quick! Go to Location ???, before they notice that you’re onto them!
+Quick! Go to Location \locationE, before they notice that you’re onto them!
 
 
 --- Page 42
@@ -335,7 +335,7 @@ As long as we can warn him, we may be able to prevent this, right? Let's go!
 
 Oh no. It's... we're too late. The damage has already been done. His old manuscripts, tossed into the flames. His desk, strewn with pages upon pages of drivel. I---I can't look. 
 
-We've got to get to Location G as soon as possible. We may still be able to fix this.
+We've got to get to Location \locationF as soon as possible. We may still be able to fix this.
 
 (upon arrival, directed to page 109. upon completion, replaced:)
 
@@ -387,7 +387,7 @@ END JUKEBOX BATTLESHIPS
 
 --- Page 58
 
-\texttt{Greetings! If you have found your way to this page, you must be undergoing technical difficulties with this device. Please go to Location ## for recalibration.}
+\texttt{Greetings! If you have found your way to this \\ page, you must be undergoing technical difficulties with this device. Please go to Location \locationG for \\ recalibration.}
 
 (replaced after solve)
 PUZZLE SIX: GATES OF TIME
@@ -440,7 +440,7 @@ To go back and fix their damage, go to page 42.
 
 FINAL ANSWER PAGE RESERVED
 
-Go to Location !!! (party time)
+Go to Location \locationH (party time)
 
 --- Page 71
 
@@ -477,7 +477,7 @@ If you'd rather not go through all of that again, turn to page 24.
 
 --- Page 98
 
-There's a package waiting for you, if you choose to accept it. Go to Location Y.
+There's a package waiting for you, if you choose to accept it. Go to Location \locationI.
 
 (upon arrival, given shoebox and directed to page 120. After solving, replaced with:)
 
@@ -569,7 +569,7 @@ Hate to admit it, but you kind of stand out around here. All of you. I mean, the
 
 It's probably best if you find someplace without a lot of curious bystanders before. Preferably soon. That android with the glowy saw thing keeps glancing this way.
 
-Try Location \%\%?
+Try Location \locationJ?
 
 (upon arrival, puzzlers are directed to page 138. upon solving, replaced with:)
 
@@ -743,17 +743,17 @@ Appendix A: Locations
 \begin{center}
 {\renewcommand{\arraystretch}{2}
 \begin{tabular}{ p{1cm} | p{11cm} }
-A & \\\hline
-B & \\\hline
-C & \\\hline
-D & \\\hline
-E & \\\hline
-F & \\\hline
-G & \\\hline
-H & \\\hline
-I & \\\hline
-J & \\\hline
-K & \\
+\locationA & \\\hline
+\locationB & \\\hline
+\locationC & \\\hline
+\locationD & \\\hline
+\locationE & \\\hline
+\locationF & \\\hline
+\locationG & \\\hline
+\locationH & \\\hline
+\locationI & \\\hline
+\locationJ & \\\hline
+\locationK & \\
 \end{tabular}}
 \end{center}
 
