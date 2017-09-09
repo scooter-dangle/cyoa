@@ -476,7 +476,7 @@ If you'd rather not go through all of that again, turn to page 24.
 
 
 
-(four pages ahead of 69 once pages 71 & 72 are torn out)
+(four pages ahead of 69 once pages 71 \& 72 are torn out)
 
 --- Page 76
 \includepdf[pages=1-22]{anothertime.pdf}
