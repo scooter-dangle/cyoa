@@ -329,7 +329,7 @@ Turn to page 139.
 
 --- Page 44
 
-As long as we can warn him, we may be able to prevent this, right? Let's go!
+As long as we can warn him, we may be able to avert this disaster, right? Let's go!
 
 ...
 
@@ -342,7 +342,7 @@ We've got to get to Location \locationF as soon as possible. We may still be abl
 PUZZLE SEVEN: BOOK BURNING
 [answer]
 
-We couldn't 
+We couldn't prevent this tragedy, but perhaps we can stop it from happening again. Turn to page 69.
 
 
 --- Page 45
@@ -450,8 +450,13 @@ To swim away, turn to page 28.
 
 To stay and assess the damage, turn to page 107.
 
+(this page is torn out and disposed of following puzzle 8)
+
 
 --- Page 72
+You're doing well. You are scheduled to receive another transfer soon. It's recommended that you wait at \locationK.
+
+(this page is torn out and disposed of following puzzle 8)
 
 --- Page 73
 \texttt{This is not the page you're looking for.}
@@ -471,6 +476,7 @@ If you'd rather not go through all of that again, turn to page 24.
 
 
 
+(four pages ahead of 69 once pages 71 & 72 are torn out)
 
 --- Page 76
 \includepdf[pages=1-22]{anothertime.pdf}
@@ -526,6 +532,8 @@ If you feel different, turn to page 114.
 If you feel the same, turn to page 115.
 
 --- Page 107
+O̵h͘ ͝d͠ea͢r͢...̀ it̶͞ ́se̢͘ę̛̀m̴̧̕s̡̛͟ ͢͞t̵́h́͝a̶ţ͜ ͞͡s͢͟ó͞m̨͜͞è̸̡t̀͘͜hi̗͔͎̥̺͕̙n͔̹̠͠g̡͎̫̞ ḫ̶͕̦̤͉̬̆ͪͅå̜̻̭̠̏͋ͫͨs̴̪̪̮͖̗͉͖̾̏̍ ̣̠̭̺́ͅg͏o̳̪̣͓͊̽̏ͬͨͥ̚̕n͉̺̺̲̪͍͘eͤ̒̌ͬ͊͋͏̥̠̰͚̠ͅ ̡̜̘̳̘̰̜͖͆t͋̄̍͏̨̹̯̙ë́ͭ͑̇̑̏̏̓̚҉̢͈r̴̡̻͙͇͚͕̱̳͕͗͂̽ͧͥ̒́ͅṛ̸̝̪͎̞͈̩̑́͌̀͜ͅi̮̥̠̾̃ͯb͌̎̒͆ͨ͂̔҉̸̻̳̪̦͍͇̳̗l͙̽͒͂y̷̥͓̘̼̻̲̲͖ͭ̿ͤͦͩͨ͢͝ ̸̮̮͌ͨ͋̿w̧̡̡͖̩̺͈̱͉̦ͤ̆́ͧ̈͐r̸̲͖̄ͨ͋̀̊̆́̒ö̵̖͎̲̱́̽͒ͤͬ̅͊̎̉͟n̡̪̻̦͚̙ͧ̔̌ͭͣ́g͖̰̤͖͖̯̥͑̏̀̈́͋̈͊̕.̛̟̺͕̻̰̪͈̟̦̎̒ͤ͂̚
+
 
 --- Page 108
 
