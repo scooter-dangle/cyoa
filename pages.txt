@@ -478,7 +478,9 @@ If you'd rather not go through all of that again, turn to page 24.
 
 
 --- Page 76
-\includepdf[pages=1-22]{anothertime.pdf}
+\includepdf[pages=1-10,angle=270]{anothertime.pdf}
+\includepdf[pages=11-12,angle=90]{anothertime.pdf}
+\includepdf[pages=13-22,angle=270]{anothertime.pdf}
 
 --- Page 98
 
