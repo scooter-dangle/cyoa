@@ -148,6 +148,7 @@ BEGIN BLUEPRINTS
 
 --- Page 16
 
+
 BLUEPRINTS
 
 --- Page 17
@@ -174,6 +175,14 @@ BLUEPRINTS
 END BLUEPRINTS
 
 --- Page 23
+Good idea. We'll need to go to Location \locationH to perform the procedure.
+
+(upon arrival teams are checked in and given the device and directed to page 99. after finishing, replaced with:)
+
+PUZZLE EIGHT: GATES OF TIME
+[answer]
+
+I'm calibrated and ready to go! Return to page 41 and let's get this show on the road.
 
 
 --- Page 24
@@ -199,10 +208,10 @@ Okay... Okay, I think it's over?
 
 Whew! No idea what that was about. It seems we've traveled without me doing anything? And as a result, I have no idea where---or when---we are. I suppose we have no choice but to check it out.
 
-Go to Location \locationC.
+Go to Location \locationE.
 
-(at location \locationC, directed to page 15. After solving, pages 24 1/3 and 24 2/3 are inserted, and this page is replaced with:)
-PUZZLE FOUR: BLUEPRINTS
+(at Location \locationE, directed to page 15. After solving, pages 24 1/3 and 24 2/3 are inserted, and this page is replaced with:)
+PUZZLE FIVE: BLUEPRINTS
 [answer]
 
 Been here, done that. Go back to page 24.
@@ -289,11 +298,11 @@ Turn to page 28 before someone has to scrape you off the deck.
 
 Don't look so surprised! What did you expect, everything would be black-and-white like an old movie? Oh, by the way, you should probably duck.
 
-Okay. Whew! Close call. I highly suggest you crouch down and make your way to Location \locationD before we all become cannon fodder.
+Okay. Whew! Close call. I highly suggest you crouch down and make your way to Location \locationC before we all become cannon fodder.
 
 (upon arrival teams are checked in and directed to page 51. Upon solving, replaced with:)
 
-PUZZLE 3A: JUKEBOX BATTLESHIPS
+PUZZLE THREE: JUKEBOX BATTLESHIPS
 [answer]
 
 Well... that was certainly interesting. And slightly terrifying. Ready to go back? 
@@ -301,65 +310,68 @@ Well... that was certainly interesting. And slightly terrifying. Ready to go bac
 Turn to page 74.
 
 --- Page 41
+Finally, we have something to work with. What we do next is up to you.
 
-Quick! Go to Location \locationE, before they notice that you’re onto them!
+To track down the meddling librarians, go ahead four pages.
+
+To go back and fix their damage, go to page 42.
+
+[after Puzzle 8 is solved, the second option is cut away from  ``go'' onward to reveal a portion of page 43: ``to page 140.'']
 
 
 --- Page 42
 
-We've arrived at the home of Benjamin Quilliver, renowned author of \textit{An Unexpected Telegram}, just hours before he is to be hypnotized by the librarians into renaming his masterpiece \textit{An Unexpected Snapchat}.
+Before we go through with this plan, we may want to calibrate my chronostat regulator to prevent causality fractures---well, the details are too complicated for any of you to comprehend. 
 
-We must do all that we can to prevent this unspeakable tragedy.
+Suffice it to say, it would require a bit of a detour.
 
-To wait outside the door and ambush the librarians, turn to page 43.
+To double-check that the universe isn't going to go ``boom'' the second we leave, turn to page 124.
+If you'd rather take our chances---and that decision should be unanimous---turn to page 23. 
 
-To warn Mr. Quilliver of his fate, turn to page 44.
-
-To pre-emptively hypnotize Mr. Quilliver yourselves, turn to page 45.
 
 --- Page 43
 
-Let's wait behind these bushes. We'll be able to see them coming and make our move.
+Oh no, the vampire scuba divers are catching up to us! You've got to act fast!
 
-Hey, why is the door opening? Is that---? Oh no. Why is she---is that a fireplace poker?
+To stand---well, float---and fight, go to page 139.
 
-Everybody RUN!
+To swim away as fast as you can, go to page 140.
 
-Turn to page 139.
+[after Puzzle 9, this page is torn out]
 
 --- Page 44
 
-As long as we can warn him, we may be able to avert this disaster, right? Let's go!
-
-...
-
-Oh no. It's... we're too late. The damage has already been done. His old manuscripts, tossed into the flames. His desk, strewn with pages upon pages of drivel. I---I can't look. 
-
-We've got to get to Location \locationF as soon as possible. We may still be able to fix this.
-
-(upon arrival, directed to page 109. upon completion, replaced:)
-
-PUZZLE SEVEN: BOOK BURNING
-[answer]
-
-We couldn't prevent this tragedy, but perhaps we can stop it from happening again. Turn to page 69.
-
+[after Puzzle 9, this page is torn out]
 
 --- Page 45
 
-Really? Okay then, go ahead, do your thing. 
-
-You do know how to hypnotize someone, right?
-
-...I take it from your silence that the answer is no. 
-
-Go back to page 42.
+\texttt{This is not the page you are looking for.}
 
 --- Page 46
 
 --- Page 47
 
+[four pages ahead of 41 once 44/45 is torn out]
+
+They're headed to Location \locationJ. After them!
+
+(upon arrival given URL for video thing and directed to page 126. upon completion:)
+
+PUZZLE TEN: BINGBONG
+[answer]
+
+Are they trying to say---does that mean they weren't responsible after all? The fire was in fact the result of spontaneous combustion?
+
+That's... that's preposterous! Only a truly devastating tear in spacetime could cause such a reaction. And the only person with the ability to---
+
+Oh. No... hey, stop making that face. It's not her! I swear, it's not her. Veronica would never...
+
+Turn to page 60. There's got to be another explanation for this, and we're going to find it.
+
+
 --- Page 48
+
+
 
 --- Page 49
 
@@ -387,107 +399,97 @@ END JUKEBOX BATTLESHIPS
 
 --- Page 58
 
-\texttt{Greetings! If you have found your way to this \\ page, you must be undergoing technical difficulties with this device. Please go to Location \locationG for \\ recalibration.}
+She's nowhere to be found... and what's this? Oh no---oh, this is very bad---the books! All of the books in my memory are---they're gone! It's as if they never existed....
 
-(replaced after solve)
-PUZZLE SIX: GATES OF TIME
+Something must be interfering with the timestream. We have to get to Location \locationF right away---we may still be able to stop this.
+
+(upon arrival, directed to page 64. upon completion:)
+
+PUZZLE SEVEN: READING RAINBOW
 [answer]
 
-Umm... hello? Anyone there? That was weird. I think I've just been... upgraded somehow? Hopefully that will fix the little issue we've been dealing with. 
+Listen up, team. This is worse than we thought. Turn to page 41 so we can come up with a plan.
 
-And now maybe you can understand a bit better who exactly you're dealing with. She was a bit of a bluestocking, my author... always cared more about her books and her theoretical physics than anything else. I think she would have liked you, though. 
-
-Go to page 69.
 
 --- Page 59
 
+
 --- Page 60
 
+
+
+
 --- Page 61
-BEGIN READING RAINBOW
+
 
 --- Page 62
-\includepdf[pages=1-2]{reading_rainbow.pdf}
+
+--- Page 63
 
 --- Page 64
 
-READING RAINBOW
+This is all that's left of my shelfmates. They were a colorful collection...it pains me to see them this way. If you truly believe it will help us discover the monster behind their destruction, you should do whatever you have to. 
+
+Tear out pages 67 through 72 ---\textit{gently}, please!---and see if you can piece together a message from the ashes.
 
 --- Page 65
-READING RAINBOW
 
---- Page 66
-END READING RAINBOW
+\includepdf[pages=1-2]{reading_rainbow.pdf}
+
 
 --- Page 67
 
-RESERVED
+READING RAINBOW
+
 
 --- Page 68
-RESERVED
+READING RAINBOW
+
 
 --- Page 69
+READING RAINBOW
 
-Finally we can make some progress. My spine is tingling!
-
-To track down the meddling librarians, go ahead four pages.
-
-To go back and fix their damage, go to page 42.
-
-[after Puzzle 7 is solved, the second option is cut away to reveal page 71's option: turn to page 107.]
 
 --- Page 70
+READING RAINBOW
 
-FINAL ANSWER PAGE RESERVED
-
-Go to Location \locationH (party time)
 
 --- Page 71
-
-You've been attacked by scuba-diving vampires!
-
-To swim away, turn to page 28.
-
-To stay and assess the damage, turn to page 107.
-
-(this page is torn out and disposed of following puzzle 8)
-
+READING RAINBOW
 
 --- Page 72
-You're doing well. You are scheduled to receive another transfer soon. It's recommended that you wait at \locationK.
-
-(this page is torn out and disposed of following puzzle 8)
+END READING RAINBOW
 
 --- Page 73
-\texttt{This is not the page you're looking for.}
 
 --- Page 74
+
 Frankly, I'm not expecting any of you to actually be able to operate me with any sort of skill, but I suppose I can at least let you decide what direction to travel in.
 
 To go back in time, turn to page 38.
 
 To go forward in time, turn to page 106.
 
-(ADDED after Puzzle 3A and Puzzle 3B, using a stamp/sticker)
+(ADDED after Puzzle 3 and Puzzle 4, using a stamp/sticker)
 
 If you'd rather not go through all of that again, turn to page 24.
 
 --- Page 75
 
 
-
-(four pages ahead of 69 once pages 71 \& 72 are torn out)
-
 --- Page 76
 \includepdf[pages=1-22]{anothertime.pdf}
 
 --- Page 98
 
-There's a package waiting for you, if you choose to accept it. Go to Location \locationI.
+How strange! It appears there's a package waiting for you. 
+
+If you choose to accept it, go to Location \locationE.
+If you choose not to accept it, go to page 108.
 
 (upon arrival, given shoebox and directed to page 120. After solving, replaced with:)
 
-PUZZLE FIVE: FAMILY TREE
+PUZZLE SIX: FAMILY TREE
 [answer]
 
 So you see, this goes back for generations. Only recently did my Veronica finally do what her cousins could not---harness the time-traveling power of her great-grandparents. 
@@ -496,26 +498,28 @@ Go back to page 24.
 
 --- Page 99
 
+BEGIN GATES OF TIME
+
 
 --- Page 100
 
-START CARDBOARD BOX
+GATES OF TIME
+
 
 --- Page 101
-CARDBOARD BOX
+GATES OF TIME
 
 
 --- Page 102
-CARDBOARD BOX
+GATES OF TIME
 
 --- Page 103
+GATES OF TIME
 
-CARDBOARD BOX
 --- Page 104
-CARDBOARD BOX
+END GATES OF TIME
 
 --- Page 105
-END CARDBOARD BOX
 
 --- Page 106
 
@@ -535,7 +539,15 @@ If you feel the same, turn to page 115.
 
 
 --- Page 108
+Oh dear, the postal worker doesn't seem very happy with your refusal. In fact, is that a---what on earth is he doing with a machete? Quick, everybody hide! 
 
+...
+
+Still trying to comprehend how you almost managed to be killed \textit{by} the messenger. It's honestly fairly impressive. 
+
+I suppose at least you know what not to do next time!
+
+Turn to page 28.
 
 --- Page 109
 BEGIN BOOK BURNING
@@ -576,14 +588,16 @@ Hate to admit it, but you kind of stand out around here. All of you. I mean, the
 
 It's probably best if you find someplace without a lot of curious bystanders before. Preferably soon. That android with the glowy saw thing keeps glancing this way.
 
-Try Location \locationJ?
+Try Location \locationD?
 
 (upon arrival, puzzlers are directed to page 138. upon solving, replaced with:)
 
-PUZZLE 3B: YES OR NO
+PUZZLE FOUR: YES OR NO
 [answer]
 
-Well, that's all well and good, but we still haven't managed to learn anything useful. Let's go back to the present for now. Turn to page 74.
+Well, that's all well and good, but we still haven't managed to learn anything useful. Let's go back to the present for now. 
+
+Turn to page 74.
 
 --- Page 118
 
@@ -603,13 +617,24 @@ FAMILY TREE
 END FAMILY TREE
 
 --- Page 124
+You sure? Okay, let's do this.
+
+...
+
+Well, so far I'm not seeing any universe-ending---oh. I may have spoken too soon. That's
+
+Please disregard any transparency you may currently be experiencing. It is simply a minor side effect of rapidly fading from existence. Full opacity will be restored upon our return... probably.
+
+Turn to page 139.
 
 
 --- Page 125
 
 
 --- Page 126
-START BINGBONG
+
+The librarians have used their astounding literacy to contrive an entirely new encoding. If we intend to discover their plans, we'll have to learn to decode it.
+
 
 --- Page 127
 BINGBONG
@@ -666,7 +691,7 @@ END BINGBONG
 
 --- Page 138
 
-You've reached into the future with your time travel device. You now know the answer is yes or no! Go back, switch this puzzle and try to solve it. For you'll need to take these back with you so people will see how right you are.
+We've reached the future! Which means you've already solved this puzzle... oops. Go back, switch this puzzle and try to figure out what your past self was trying to do.
 
 \begin{center}
 \begin{tabular}{ p{6cm} p{6cm} }
@@ -681,8 +706,8 @@ You've reached into the future with your time travel device. You now know the an
 \textbf{R}educe sharply & Locales for many Cinnabon franchises \\
 \textbf{I}nmates without hope of freedom & Many a prescription order \\
 \textbf{S}eries of mountains & Prodigal son \\
-\textbf{Y}ears of no fixed abode, you might be this & One of a number of \\
-\textbf{E}xploring fish gets captured and put in dentist clinic & Romantic partners \\
+\textbf{Y}urt dweller, perhaps & One of a number of \\
+\textbf{E}xploring fish who spends time in a dentist clinic & Romantic partners \\
 \textbf{S}pecial delivery & Something to waft over me \\
 \textbf{O}rganized opposition to authority & Take much pleasure \\
 \textbf{R}ough road & Vehicles in grocery stores \\
@@ -694,22 +719,36 @@ You've reached into the future with your time travel device. You now know the an
 
 --- Page 139
 
-Good grief, were you trying to get yourselves killed? I just barely got us out in time! 
+Good grief, were you \textit{trying} to get yourselves killed? I just barely got us out of there in time! 
 
 ...
 
 Not that I was worried about you or anything.
 
-Alright, break time's over, go back to page 69.
+...
+
+Just, try to be more careful, okay?
+
+Go back to page 41.
 
 
 --- Page 140
+There! I've locked onto the source of my shelfmates' destruction. Let's go to Location \locationI to check it out. 
+
+(upon arrival, directed to page 109. upon completion, replaced with:)
+
+PUZZLE NINE: BOOK BURNING
+[answer]
+
+The crisis has been averted! Now all that remains is to track down the librarians responsible for this heinous crime and bring them to justice. Turn to page 41.
 
 
 --- Page 141
 
 
 --- Page 142
+
+
 
 
 --- Page 143
