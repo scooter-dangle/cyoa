@@ -546,7 +546,7 @@ Across & Down \\
 
 --- Page 100
 
-\begin{tabular}{|ll|p{0.55em}l|ll|ll|ll|}
+\begin{tabular}{|ll|p{0.25cm}l|ll|ll|ll|}
 \hline
 \cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}& 1&& 2&&\cellcolor{black}&\cellcolor{black}\\
 \cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}& && &&\cellcolor{black}&\cellcolor{black}\\\hline
@@ -640,7 +640,7 @@ Down\\
 }
 
 --- Page 103
-\begin{tabular}{|p{0.55em}l|ll|ll|p{0.55em}l|ll|}
+\begin{tabular}{|p{0.25cm}l|ll|ll|p{0.25cm}l|ll|}
 \hline
 1&&2&&\cellcolor{black}&\cellcolor{black}&3&&4&\\
  && &&\cellcolor{black}&\cellcolor{black}& && &\\\hline
