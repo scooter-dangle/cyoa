@@ -499,7 +499,7 @@ So you see, this goes back for generations. Only recently did my Veronica finall
 Go back to page 24.
 
 --- Page 99
-
+\begin{center}
 \begin{tabular}{|l l | l l | l l | l l | l l | l l|}
 \hline
 1 & & 2 & & 3 & &\cellcolor{black} &\cellcolor{black} & \cellcolor{black} & \cellcolor{black} \\
@@ -520,7 +520,9 @@ Across                    & Down \\
                           & 6) See 3D\\
 \end{tabular}
 }
+\end{center}
 
+\begin{center}
 \begin{tabular}{|ll|ll|ll|ll|ll|}
 \hline
 \cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&1&&2&\\
@@ -543,9 +545,11 @@ Across & Down \\
 6) Odd number           & 5) Perfect Square\\
 \end{tabular}
 }
+\end{center}
 
 --- Page 100
 
+\begin{center}
 \begin{tabular}{|ll|p{0.25cm}l|ll|ll|ll|}
 \hline
 \cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}& 1&& 2&&\cellcolor{black}&\cellcolor{black}\\
@@ -561,24 +565,20 @@ Across & Down \\
 \end{tabular}
 
 \small {
-Across\\
-1) See 6A\\
-3) A number\\
-6) (Year 2 + 484)/(2 * 1A)\\
-7) Greater than 1A + 6A\\
-8) 5 * 4D\\
-10) Greater than 9D\\
-
-Down\\
-1) 5D + 7A\\
-2) One digit equals sum of the others\\
-3) Consecutive digits, in some order\\
-4) Year 11 reversed + 266\\
-5) Odd digits in ascending order\\
-9) 2 * 1D\\
+\begin{tabular}{l l}
+Across                     & Down\\
+1) See 6A                  & 1) 5D + 7A\\
+3) A number                & 2) One digit equals sum of the others\\
+6) (Year 2 + 484)/(2 * 1A) & 3) Consecutive digits, in some order\\
+7) Greater than 1A + 6A    & 4) Year 11 reversed + 266\\
+8) 5 * 4D                  & 5) Odd digits in ascending order\\
+10) Greater than 9D        & 9) 2 * 1D\\
+\end{tabular}
 }
+\end{center}
 
 --- Page 101
+\begin{center}
 \begin{tabular}{|ll|ll|ll|}
 \hline
 1&&2&&\cellcolor{black}&\cellcolor{black}\\
@@ -596,23 +596,20 @@ Down\\
 \end{tabular}
 
 \small{
-Across\\
-1) Prime number\\
-3) Power of 2\\
-5) Perfect square\\
-6) Prime number\\
-7) 8 * 4D\\
-9) (Year 9 - 15)/34\\
-
-Down\\
-1) Year 10 contains only these digits\\
-2) (Year 6 * 93) + 1888\\
-4) 1A + 6A\\
-6) Perfect square\\
-8) 5A - 6D\\
+\begin{tabular}{l l}
+Across              & Down\\
+1) Prime number     & 1) Year 10 contains only these digits\\
+3) Power of 2       & 2) (Year 6 * 93) + 1888\\
+5) Perfect square   & 4) 1A + 6A\\
+6) Prime number     & 6) Perfect square\\
+7) 8 * 4D           & 8) 5A - 6D\\
+9) (Year 9 - 15)/34 & \\
+\end{tabular}
 }
+\end{center}
 
 --- Page 102
+\begin{center}
 \begin{tabular}{|ll|ll|ll|ll|}
 \hline
 1&&2&&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}\\
@@ -626,20 +623,18 @@ Down\\
 \end{tabular}
 
 \small{
-Across\\
-1) Sum of digits > 11\\
-3) Sum of digits > 11\\
-5) Sum of digits > 12\\
-7) Sum of digits > 16\\
-
-Down\\
-1) (Year 8 - 15) * (1D reversed)\\
-2) Less than 4D\\
-4) Product of two digits equals the third\\
-6) Multiple of 3\\
+\begin{tabular}{l l}
+Across                & Down\\
+1) Sum of digits > 11 & 1) (Year 8 - 15) * (1D reversed)\\
+3) Sum of digits > 11 & 2) Less than 4D\\
+5) Sum of digits > 12 & 4) Product of two digits equals the third\\
+7) Sum of digits > 16 & 6) Multiple of 3\\
+\end{tabular}
 }
+\end{center}
 
 --- Page 103
+\begin{center}
 \begin{tabular}{|p{0.25cm}l|ll|ll|p{0.25cm}l|ll|}
 \hline
 1&&2&&\cellcolor{black}&\cellcolor{black}&3&&4&\\
@@ -655,24 +650,19 @@ Down\\
 \end{tabular}
 
 \small{
-Across\\
-1) Greater than 8D\\
-3) Prime number\\
-5) Alternate even and odd digits, in ascending order\\
-7) (Year 4 + 36) / 48\\
-8) (Year 7 * 10) - 1233\\
-10) 1A reversed\\
-11) Divisible by 3\\
-
-Down\\
-1) (number)\\
-2) Digits are all odd\\
-3) Digits are all odd\\
-4) 1A + 3A\\
-6) Sum of two digits equals the third\\
-8) Consecutive digits in some order\\
-9) 1D - 1
+\begin{tabular}{l l}
+Across                            & Down\\
+1) Greater than 8D                & 1) (number)\\
+3) Prime number                   & 2) Digits are all odd\\
+5) Alternate even and odd digits, & 3) Digits are all odd \\
+   in ascending order             & 4) 1A + 3A\\
+7) (Year 4 + 36) / 48             & 6) Sum of two digits equals the third\\
+8) (Year 7 * 10) - 1233           & 8) Consecutive digits in some order\\
+10) 1A reversed                   & 9) 1D - 1 \\
+11) Divisible by 3                & \\
+\end{tabular}
 }
+\end{center}
 
 --- Page 104
 \texttt{
