@@ -680,15 +680,15 @@ Down\\
 \begin{tabular}{c l l l l l }
  & 01234 & 56789 & & & \\
  & & & & & \\
-\cellcolor[HTML]{cf4444}1& YWEEX & CGYWW & OANE & & \\
+\cellcolor[HTML]{CF4444}1& YWEEX & CGYWW & OANE & & \\
  & & & & & \\
-\cellcolor[HTML]{87ceeb}2& WHNGH & JWZOA & OEY & & \\
+\cellcolor[HTML]{87CEEB}2& WHNGH & JWZOA & OEY & & \\
  & & & & & \\
-\cellcolor[HTML]{44cf44}3& KOEKW & ZYWTO & ZWHE & & \\
+\cellcolor[HTML]{44CF44}3& KOEKW & ZYWTO & ZWHE & & \\
  & & & & & \\
-\cellcolor[HTML]{f5deb3}4& YMKOE & OEOHE & DXGHZ & QSKEO & MKR \\
+\cellcolor[HTML]{F5DEB3}4& YMKOE & OEOHE & DXGHZ & QSKEO & MKR \\
  & & & & & \\
-\cellcolor[HTML]{9f9f9f}5& CGJBE & XENWM & UWYWH & E & \\
+\cellcolor[HTML]{9F9F9F}5& CGJBE & XENWM & UWYWH & E & \\
 \end{tabular}
 \end{center}
 }
@@ -697,7 +697,7 @@ Down\\
 \texttt{
 \begin{center}
 \begin{tabular}{P{1cm} P{0.3cm} P{0.1cm} P{0.3cm} P{0.1cm} P{0.3cm} P{0.1cm} P{0.3cm} P{0.1cm} P{0.5cm}}
-    & \cellcolor[HTML]{cf4444} & & \cellcolor[HTML]{87ceeb}& & \cellcolor[HTML]{44cf44} & & \cellcolor[HTML]{f5deb3} & &   \\
+    & \cellcolor[HTML]{CF4444} & & \cellcolor[HTML]{87CEEB}& & \cellcolor[HTML]{44CF44} & & \cellcolor[HTML]{F5DEB3} & &   \\
     &   & &   & &   & &   & &   \\
 1)  & 2 & & 0 & & 1 & & 7 & &   \\ \hhline{~~~~~~~~~-}
 2)  &   & &   & &   & &   & &   \\ \hhline{~-~-~-~-~-}
