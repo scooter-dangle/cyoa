@@ -500,28 +500,219 @@ Go back to page 24.
 
 --- Page 99
 
-BEGIN GATES OF TIME
+\begin{tabular}{|l l | l l | l l | l l | l l | l l|}
+\hline
+1 & & 2 & & 3 & &\cellcolor{black} &\cellcolor{black} & \cellcolor{black} & \cellcolor{black} \\
+  & &   & &   & &\cellcolor{black} &\cellcolor{black} & \cellcolor{black} & \cellcolor{black} \\ \hline
+4 & &   & &   & &  5 & & 6 & \\
+  & &   & &   & &    & &   & \\ \hline
+\cellcolor{black} & \cellcolor{black} & \cellcolor{black}  & \cellcolor{black} & 7 & &    & &   & \\
+\cellcolor{black} & \cellcolor{black} & \cellcolor{black}  & \cellcolor{black} &   & &    & &   & \\ \hline
+\end{tabular}
 
+\small{
+\begin{tabular}{l l}
+Across                    & Down \\
+1) Product of digits = 2D & 1) 2 * 2D\\
+4) A number               & 2) 2 * 6D\\
+7) Greater than 1A        & 3) (Year 3 + 2750) / 6D\\
+                          & 5) 2 * 1D\\
+                          & 6) See 3D\\
+\end{tabular}
+}
+
+\begin{tabular}{|ll|ll|ll|ll|ll|}
+\hline
+\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&1&&2&\\
+\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}& && &\\\hline
+\cellcolor{black}&\cellcolor{black}&3&&4&&&&&\\
+\cellcolor{black}&\cellcolor{black}& && &&&&&\\\hline
+5&&&&&&&&\cellcolor{black}&\cellcolor{black}\\
+&&&&&&&&\cellcolor{black}&\cellcolor{black}\\\hline
+6&&&&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}\\
+&&&&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}\\\hline
+\end{tabular}
+
+\small{
+\begin{tabular}{l l}
+Across & Down \\
+1) Sum of 1D Digits     & 1) 3D + 5D\\
+3) Digits alternate     & 2) Perfect Square\\
+   between odd and even & 3) 2D + 4D\\
+5) Year 5 + 222         & 4) 1D / 2\\
+6) Odd number           & 5) Perfect Square\\
+\end{tabular}
+}
 
 --- Page 100
 
-GATES OF TIME
+\begin{tabular}{|ll|p{0.55em}l|ll|ll|ll|}
+\hline
+\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}& 1&& 2&&\cellcolor{black}&\cellcolor{black}\\
+\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}& && &&\cellcolor{black}&\cellcolor{black}\\\hline
+3&& 4&& && && 5&\\
+&& && && && &\\ \hline
+6&& &&\cellcolor{black}&\cellcolor{black}& 7&& &\\
+&& &&\cellcolor{black}&\cellcolor{black}& && &\\ \hline
+8&& && 9&& && &\\
+&& && && && &\\ \hline
+\cellcolor{black}&\cellcolor{black}& 10&& &&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}\\
+\cellcolor{black}&\cellcolor{black}& && &&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}\\ \hline
+\end{tabular}
 
+\small {
+Across\\
+1) See 6A\\
+3) A number\\
+6) (Year 2 + 484)/(2 * 1A)\\
+7) Greater than 1A + 6A\\
+8) 5 * 4D\\
+10) Greater than 9D\\
+
+Down\\
+1) 5D + 7A\\
+2) One digit equals sum of the others\\
+3) Consecutive digits, in some order\\
+4) Year 11 reversed + 266\\
+5) Odd digits in ascending order\\
+9) 2 * 1D\\
+}
 
 --- Page 101
-GATES OF TIME
+\begin{tabular}{|ll|ll|ll|}
+\hline
+1&&2&&\cellcolor{black}&\cellcolor{black}\\
+ && &&\cellcolor{black}&\cellcolor{black}\\\hline
+3&& &&4&\\
+ && && &\\\hline
+\cellcolor{black}&\cellcolor{black}&5&& &\\
+\cellcolor{black}&\cellcolor{black}& && &\\\hline
+6&& &&\cellcolor{black}&\cellcolor{black}\\
+ && &&\cellcolor{black}&\cellcolor{black}\\\hline
+7&& &&8&\\
+ && && &\\\hline
+\cellcolor{black}&\cellcolor{black}&9&& &\\
+\cellcolor{black}&\cellcolor{black}& && &\\\hline
+\end{tabular}
 
+\small{
+Across\\
+1) Prime number\\
+3) Power of 2\\
+5) Perfect square\\
+6) Prime number\\
+7) 8 * 4D\\
+9) (Year 9 - 15)/34\\
+
+Down\\
+1) Year 10 contains only these digits\\
+2) (Year 6 * 93) + 1888\\
+4) 1A + 6A\\
+6) Perfect square\\
+8) 5A - 6D\\
+}
 
 --- Page 102
-GATES OF TIME
+\begin{tabular}{|ll|ll|ll|ll|}
+\hline
+1&&2&&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}\\
+ && &&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}\\\hline
+3&& &&4&&\cellcolor{black}&\cellcolor{black}\\
+ && && &&\cellcolor{black}&\cellcolor{black}\\\hline
+\cellcolor{black}&\cellcolor{black}&5&&&&6&\\
+\cellcolor{black}&\cellcolor{black}& &&&& &\\\hline
+\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&7&&&\\
+\cellcolor{black}&\cellcolor{black}&\cellcolor{black}&\cellcolor{black}& &&&\\\hline
+\end{tabular}
+
+\small{
+Across\\
+1) Sum of digits > 11\\
+3) Sum of digits > 11\\
+5) Sum of digits > 12\\
+7) Sum of digits > 16\\
+
+Down\\
+1) (Year 8 - 15) * (1D reversed)\\
+2) Less than 4D\\
+4) Product of two digits equals the third\\
+6) Multiple of 3\\
+}
 
 --- Page 103
-GATES OF TIME
+\begin{tabular}{|p{0.55em}l|ll|ll|p{0.55em}l|ll|}
+\hline
+1&&2&&\cellcolor{black}&\cellcolor{black}&3&&4&\\
+ && &&\cellcolor{black}&\cellcolor{black}& && &\\\hline
+5&& &&6&& && & \\
+ && && && && & \\\hline
+\cellcolor{black}&\cellcolor{black}&7&& && &&\cellcolor{black}&\cellcolor{black}\\
+\cellcolor{black}&\cellcolor{black}& && && &&\cellcolor{black}&\cellcolor{black}\\\hline
+8&& && && &&9& \\
+ && && && && & \\\hline
+10&& &&\cellcolor{black}&\cellcolor{black}&11&& &\\
+ && &&\cellcolor{black}&\cellcolor{black}& && &\\\hline
+\end{tabular}
+
+\small{
+Across\\
+1) Greater than 8D\\
+3) Prime number\\
+5) Alternate even and odd digits, in ascending order\\
+7) (Year 4 + 36) / 48\\
+8) (Year 7 * 10) - 1233\\
+10) 1A reversed\\
+11) Divisible by 3\\
+
+Down\\
+1) (number)\\
+2) Digits are all odd\\
+3) Digits are all odd\\
+4) 1A + 3A\\
+6) Sum of two digits equals the third\\
+8) Consecutive digits in some order\\
+9) 1D - 1
+}
 
 --- Page 104
-END GATES OF TIME
+\texttt{
+\begin{center}
+\begin{tabular}{c l l l l l }
+ & 01234 & 56789 & & & \\
+ & & & & & \\
+\cellcolor[HTML]{cf4444}1& YWEEX & CGYWW & OANE & & \\
+ & & & & & \\
+\cellcolor[HTML]{87ceeb}2& WHNGH & JWZOA & OEY & & \\
+ & & & & & \\
+\cellcolor[HTML]{44cf44}3& KOEKW & ZYWTO & ZWHE & & \\
+ & & & & & \\
+\cellcolor[HTML]{f5deb3}4& YMKOE & OEOHE & DXGHZ & QSKEO & MKR \\
+ & & & & & \\
+\cellcolor[HTML]{9f9f9f}5& CGJBE & XENWM & UWYWH & E & \\
+\end{tabular}
+\end{center}
+}
 
 --- Page 105
+\texttt{
+\begin{center}
+\begin{tabular}{P{1cm} P{0.3cm} P{0.1cm} P{0.3cm} P{0.1cm} P{0.3cm} P{0.1cm} P{0.3cm} P{0.1cm} P{0.5cm}}
+    & \cellcolor[HTML]{cf4444} & & \cellcolor[HTML]{87ceeb}& & \cellcolor[HTML]{44cf44} & & \cellcolor[HTML]{f5deb3} & &   \\
+    &   & &   & &   & &   & &   \\
+1)  & 2 & & 0 & & 1 & & 7 & &   \\ \hhline{~~~~~~~~~-}
+2)  &   & &   & &   & &   & &   \\ \hhline{~-~-~-~-~-}
+3)  &   & &   & &   & &   & &   \\ \hhline{~-~-~-~-~-}
+4)  &   & &   & &   & &   & &   \\ \hhline{~-~-~-~-~-}
+5)  &   & &   & &   & &   & &   \\ \hhline{~-~-~-~-~-}
+6)  &   & &   & &   & &   & &   \\ \hhline{~-~-~-~-~-}
+7)  &   & &   & &   & &   & &   \\ \hhline{~-~-~-~-~-}
+8)  &   & &   & &   & &   & &   \\ \hhline{~-~-~-~-~-}
+9)  &   & &   & &   & &   & &   \\ \hhline{~-~-~-~-~-}
+10) &   & &   & &   & &   & &   \\ \hhline{~-~-~-~-~-}
+11) &   & &   & &   & &   & & C \\ \hhline{~-~-~-~-~~}
+\end{tabular}
+\end{center}
+}
 
 --- Page 106
 
