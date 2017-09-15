@@ -799,7 +799,7 @@ You sure? Okay, let's do this.
 
 ...
 
-Well, so far I'm not seeing any universe-endi\breve{\eta} \mathit{g} --- \tilde{\phi} \hbar \ \delta \Ddot{\Hat{\varepsilon}} \Re
+Well, so far I'm not seeing any universe-endi$\breve{\eta} \mathit{g} --- \tilde{\phi} \hbar \ \delta \Ddot{\Hat{\varepsilon}} \Re$
 
 I may have spoken too soon.
 
