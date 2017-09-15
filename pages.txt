@@ -325,8 +325,8 @@ Before we go through with this plan, we may want to calibrate my chronostat regu
 
 Suffice it to say, it would require a bit of a detour.
 
-To double-check that the universe isn't going to go ``boom'' the second we leave, turn to page 124.
-If you'd rather take our chances---and that decision should be unanimous---turn to page 23. 
+To double-check that the universe isn't going to go ``boom'' the second we leave, turn to page 23.
+If you'd rather take our chances---and that decision should be unanimous---turn to page 124. 
 
 
 --- Page 43
@@ -799,7 +799,9 @@ You sure? Okay, let's do this.
 
 ...
 
-Well, so far I'm not seeing any universe-ending---oh. I may have spoken too soon. That's
+Well, so far I'm not seeing any universe-endi\breve{\eta} \mathit{g} --- \tilde{\phi} \hbar \ \delta \Ddot{\Hat{\varepsilon}} \Re
+
+I may have spoken too soon.
 
 Please disregard any transparency you may currently be experiencing. It is simply a minor side effect of rapidly fading from existence. Full opacity will be restored upon our return... probably.
 
