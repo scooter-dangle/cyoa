@@ -403,7 +403,7 @@ She's nowhere to be found... and what's this? Oh no---oh, this is very bad---the
 
 Something must be interfering with the timestream. We have to get to Location \locationF right away---we may still be able to stop this.
 
-(upon arrival, directed to page 64. upon completion:)
+(upon arrival, directed to page 66. upon completion:)
 
 PUZZLE SEVEN: READING RAINBOW
 [answer]
@@ -428,37 +428,32 @@ Listen up, team. This is worse than we thought. Turn to page 41 so we can come u
 
 --- Page 64
 
-This is all that's left of my shelfmates. They were a colorful collection...it pains me to see them this way. If you truly believe it will help us discover the monster behind their destruction, you should do whatever you have to. 
 
-Tear out pages 67 through 72 ---\textit{gently}, please!---and see if you can piece together a message from the ashes.
 
 --- Page 65
 
-\includepdf[pages=1-2]{reading_rainbow.pdf}
+--- Page 66
+This is all that's left of my shelfmates. They were a colorful collection...it pains me to see them this way. If you truly believe it will help us discover the monster behind their destruction, you should do whatever you have to. 
+
+Tear out pages 67 and 69 ---\textit{gently}, please!---and see if you can piece together a message from the ashes.
 
 
 --- Page 67
 
-READING RAINBOW
-
+\includepdf[pages=1]{reading_rainbow_scraps.pdf}
 
 --- Page 68
-READING RAINBOW
-
 
 --- Page 69
-READING RAINBOW
 
+\includepdf[pages=2]{reading_rainbow_scraps.pdf}
 
 --- Page 70
-READING RAINBOW
 
 
 --- Page 71
-READING RAINBOW
+\includepdf[pages=1-2]{reading_rainbow.pdf}
 
---- Page 72
-END READING RAINBOW
 
 --- Page 73
 
