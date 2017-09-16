@@ -193,6 +193,8 @@ To stay here and figure things out, go to the next page.
 
 To take your chances on another trip, go to the page after that.
 
+(after puzzle 5, a new page is inserted between 24 and 25. Page 24 1/3 directs you to page 98, page 24 2/3 directs you to page 25.)
+
 --- Page 25
 
 I think it's time we checked in with my author, don't you agree? If you know Veronica's year of birth, then you can go ahead to the page corresponding to the last two digits of that year. If not, go back to page 24. 
