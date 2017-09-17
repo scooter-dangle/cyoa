@@ -849,8 +849,26 @@ The librarians have used their astounding literacy to contrive an entirely new e
 
 
 --- Page 127
-BINGBONG
-
+\begin{center}
+\begin{tabular}{c}
+Paisley\\
+Plaid\\
+Eurion\\
+Giraffe\\
+Jupiter\\
+Yankees\\
+UFO\\
+Dick\\
+Ladybug\\
+The dress that broke the internet\\
+Domino\\
+A Sunday Afternoon on the Island of La Grande Jatte\\
+Pongo\\
+Candy Cane\\
+Wonder Bread\\
+Minnie Mouse\\
+\end{tabular}
+\end{center}
 
 --- Page 128
 \begin{center}
