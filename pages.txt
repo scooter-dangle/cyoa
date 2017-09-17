@@ -987,3 +987,6 @@ Appendix A: Locations
 
 --- Page 148
 \includepdf[pages=1]{map.pdf}
+
+--- Page 149
+\includepdf[pages=1-2]{fidget_cropped.pdf}
