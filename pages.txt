@@ -484,10 +484,10 @@ Tear out pages 67 and 69 ---\textit{gently}, please!---and see if you can piece 
 
 
 --- Page 71
+
+--- Page 72
 \includepdf[pages=1-2]{reading_rainbow.pdf}
 
-
---- Page 73
 
 --- Page 74
 
