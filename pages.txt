@@ -49,7 +49,7 @@ Farewell, team, and may you be cursed with a thousand overdue fines!
 
 Aha! Good. Now that you've proven yourself worthy, proceed to Location \locationA and await further instructions.
 
-(at Location \locationA, they are checked in and directed to Page 30).
+(at Location \locationA, they are checked in and directed to Page 31).
 
 (once puzzle is solved, the page is replaced with:)
 
@@ -257,7 +257,7 @@ Behind this throne you will find two doors that can lead you to enlightenment.
 Be warned that one is more challenging than the other.
 Now be gone from my sight!
 
---- Page 31
+--- Page 32
 Stern Door
 
 \begin{center}
@@ -276,7 +276,7 @@ Fidget with your fake hair and tailless show about a high school singing club. &
 \end{tabular}
 \end{center}
 
---- Page 32
+--- Page 33
 Smiling Door
 
 \begin{center}
@@ -295,17 +295,13 @@ Fidget, like a member of an Australian kids band & & \\
 \end{tabular}
 \end{center}
 
---- Page 33
+--- Page 34
 \includepdf[pages=1-2]{fidget_cropped.pdf}
 
 --- Page 35
 FIDGET SPINNER
 
 --- Page 36
-FIDGET SPINNER
-
-
---- Page 37
 END FIDGET SPINNER
 
 --- Page 38
