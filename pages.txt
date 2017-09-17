@@ -761,18 +761,19 @@ I suppose at least you know what not to do next time!
 Turn to page 28.
 
 --- Page 109
-BEGIN BOOK BURNING
---- Page 110
 
-BOOK BURNING
+--- Page 110
+BEGIN BOOK BURNING
+(flavor text goes here)
+
 --- Page 111
-BOOK BURNING
+END BOOK BURNING
+answer form goes here
+
 --- Page 112
 
-BOOK BURNING
 --- Page 113
 
-END BOOK BURNING
 --- Page 114
 
 That's probably just the subconscious realization that everything you ever knew or loved has been gone for years... and there goes the conscious realization. Don't worry, it will pass!
