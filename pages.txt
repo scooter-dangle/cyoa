@@ -510,11 +510,11 @@ Go back to page 24.
 \small{
 \begin{tabular}{l l}
 Across                    & Down \\
-1) Product of digits = 2D & 1) 2 * 2D\\
-4) A number               & 2) 2 * 6D\\
-7) Greater than 1A        & 3) (Year 3 + 2750) / 6D\\
-                          & 5) 2 * 1D\\
-                          & 6) See 3D\\
+1) Third digit * (Sum of  &1) 2 * 2D\\
+first two digits) = 2D    & 2) 2 * 6D\\
+reversed                  & 3) (Year 3 + 2750) / 6D\\
+4) A number               & 5) 2 * 1D\\
+7) Greater than 1A        & 6) See 3D\\
 \end{tabular}
 }
 \end{center}
@@ -564,7 +564,7 @@ Across & Down \\
 \small {
 \begin{tabular}{l l}
 Across                     & Down\\
-1) See 6A                  & 1) 5D + 7A\\
+1) See 6A                  & 1) 5D - 7A\\
 3) A number                & 2) One digit equals sum of the others\\
 6) (Year 2 + 484)/(2 * 1A) & 3) Consecutive digits, in some order\\
 7) Greater than 1A + 6A    & 4) Year 11 reversed + 266\\
@@ -622,7 +622,7 @@ Across              & Down\\
 \small{
 \begin{tabular}{l l}
 Across                & Down\\
-1) Sum of digits > 11 & 1) (Year 8 - 15) * (1D reversed)\\
+1) Sum of digits > 11 & 1) (Year 8 - 15) / (1D reversed)\\
 3) Sum of digits > 11 & 2) Less than 4D\\
 5) Sum of digits > 12 & 4) Product of two digits equals the third\\
 7) Sum of digits > 16 & 6) Multiple of 3\\
@@ -654,9 +654,9 @@ Across                            & Down\\
 5) Alternate even and odd digits, & 3) Digits are all odd \\
    in ascending order             & 4) 1A + 3A\\
 7) (Year 4 + 36) / 48             & 6) Sum of two digits equals the third\\
-8) (Year 7 * 10) - 1233           & 8) Consecutive digits in some order\\
-10) 1A reversed                   & 9) 1D - 1 \\
-11) Divisible by 3                & \\
+8) (Year 7 * 10) - 1233           & 8) Digits are consecutive\\
+10) 1A reversed                   & multiples of 3\\
+11) Divisible by 3                & 9) 1D - 1 \\
 \end{tabular}
 }
 \end{center}
