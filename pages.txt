@@ -250,19 +250,53 @@ With that said, turn to page 1.
 
 --- Page 30
 
-START FIDGET SPINNER
+It is the journey, not the destination, that matters.
+Two eyes alone must walk the path, but along the way you must look to your third eye to perceive the truth.
+I deem your quest honorable so I will assist how I can.
+Behind this throne you will find two doors that can lead you to enlightenment.
+Be warned that one is more challenging than the other.
+Now be gone from my sight!
 
 --- Page 31
-FIDGET SPINNER
+Stern Door
+
+\begin{center}
+\begin{tabular}{l l l}
+Fidget because a queue contains some rather large breasts. & & \\
+Fidget with an advertisement tune to swap the first of noises with the last bit of song. & & \\
+Fidget (about) contained in a pokemon keybog
+ard. & & \\
+Fidget while in a crazy pet rut. & & \\
+Fidget because the theme of 50 Shades of Grey contains a tailless eccentricity. & & \\
+Fidget with a Scottish cap while doing an exercise backwards. & & \\
+Fidget because this Nike errs oddly. & & \\
+Fidget caused by the first Tuesday with a sorceress. & & \\
+Fidget with your fake hair and tailless show about a high school singing club. & & \\
+
+\end{tabular}
+\end{center}
 
 --- Page 32
-FIDGET SPINNER
+Smiling Door
+
+\begin{center}
+\begin{tabular}{l l l}
+ex: Fidget, with a spinner & ROTATE & \#:CLUE \\
+& & \\
+Fidget, or play as an instrument & & \\
+Fidget, as Jell-O does & & \\
+Fidget (about), as a primate & & \\
+Fidget, or a golf club & & \\
+Fidget uncomfortably & & \\
+Fidget, as with an airline smoke detector & & \\
+Fidget as an inventor & & \\
+Fidget involuntarily & & \\
+Fidget, like a member of an Australian kids band & & \\
+\end{tabular}
+\end{center}
 
 --- Page 33
-FIDGET SPINNER
-
---- Page 34
-FIDGET SPINNER
+\includepdf[pages=1-2]{fidget_cropped.pdf}
 
 --- Page 35
 FIDGET SPINNER
@@ -987,6 +1021,3 @@ Appendix A: Locations
 
 --- Page 148
 \includepdf[pages=1]{map.pdf}
-
---- Page 149
-\includepdf[pages=1-2]{fidget_cropped.pdf}
