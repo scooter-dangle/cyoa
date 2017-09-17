@@ -816,16 +816,15 @@ Turn to page 74.
 
 --- Page 120
 START FAMILY TREE
+Blank space to write the puzzle answer goes here.
 
 --- Page 121
-FAMILY TREE
+END FAMILY TREE
+Author picture placeholder (teams will attach the photo here)
 
 --- Page 122
-FAMILY TREE
 
 --- Page 123
-
-END FAMILY TREE
 
 --- Page 124
 You sure? Okay, let's do this.
